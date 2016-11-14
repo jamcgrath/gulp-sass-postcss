@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^6.4.0",
+    "css-mqpacker": "^5.0.1",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "lost": "^7.0.4",
+    "postcss-em-media-query": "^1.0.1",
+    "postcss-fixes": "^1.4.0",
+    "postcss-flexbugs-fixes": "^2.0.0"
+  }
+}
